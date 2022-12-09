@@ -8,13 +8,13 @@ Computer Scientist
 <div id="webaddress">
 <a href="jaxonhamm@byui.edu">jaxonhamm@byui.edu</a>
 | <a href="https://www.linkedin.com/in/jaxon-hamm-7780b7239/">LinkedIn</a>
-| <a href="https://github.com/JaxonAtBYUI">GitHub</a>
+| <a href="https://github.com/byuids-resumes/jaxon_hamm">GitHub Resume Repo</a>
 </div>
 
 ## Education
 
 `Expected 2024`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__ Rexburg, ID
 _Computer Science_
 - 3.9 GPA
 
@@ -23,7 +23,7 @@ _Computer Science_
 ### Related Experience
 
 `September 2022 - December 2022`
-__DS 250 - Data Science Programming__, BYU-Idaho
+__DS 250 - Data Science Programming__ BYU-Idaho
 
 - Worked on using Python to analyze an visualize data.
 - Used machine learning algorithms to create predictive models.
@@ -32,17 +32,17 @@ __DS 250 - Data Science Programming__, BYU-Idaho
 ### Other experience - Abreviated
 
 `June 2021 - August 2021`
-__Amazon - Fulfillment Center Associate__, Nampa, ID
+__Amazon - Fulfillment Center Associate__ Nampa, ID
 
 - Worked together with a team to achieve quotas.
 
 `February 2017 - August 2018`
-__Dominos Pizza - Customer Service Representative__, Meridian, Idaho
+__Dominos Pizza - Customer Service Representative__ Meridian, Idaho
 
 - Experience making sure clients receive what they want with pleasant service.
 
 `July 2016 - August 2016`
-__Syngenta Seeds - Corn Polinator__, Nampa, Idaho
+__Syngenta Seeds - Corn Polinator__ Nampa, Idaho
 
 - Worked eight to ten hours a day in hot and muddy conditions.
 
