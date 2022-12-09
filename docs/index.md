@@ -29,7 +29,7 @@ __DS 250 - Data Science Programming__, BYU-Idaho
 - Used machine learning algorithms to create predictive models.
 - Looked at techniques to repair missing or invalid data.
 
-## Other experience - Abreviated
+### Other experience - Abreviated
 
 `July 2016 - August 2016`
 __Syngenta Seeds - Corn Polinator__, Nampa, Idaho
