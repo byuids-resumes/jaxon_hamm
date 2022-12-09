@@ -9,6 +9,7 @@ Computer Scientist
 <a href="jaxonhamm@byui.edu">jaxonhamm@byui.edu</a>
 | <a href="https://www.linkedin.com/in/jaxon-hamm-7780b7239/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes/jaxon_hamm">GitHub Resume Repo</a>
+| <a href="https://github.com/JaxonAtBYUI">GitHub Profile</a>
 </div>
 
 ## Education
