@@ -31,21 +31,20 @@ __DS 250 - Data Science Programming__, BYU-Idaho
 
 ### Other experience - Abreviated
 
-`July 2016 - August 2016`
-__Syngenta Seeds - Corn Polinator__, Nampa, Idaho
+`June 2021 - August 2021`
+__Amazon - Fulfillment Center Associate__, Nampa, ID
 
-- Worked eight to ten hours a day in hot and muddy conditions.
+- Worked together with a team to achieve quotas.
 
 `February 2017 - August 2018`
 __Dominos Pizza - Customer Service Representative__, Meridian, Idaho
 
 - Experience making sure clients receive what they want with pleasant service.
 
-`June 2021 - August 2021`
-__Amazon - Fulfillment Center Associate__, Nampa, ID
+`July 2016 - August 2016`
+__Syngenta Seeds - Corn Polinator__, Nampa, Idaho
 
-- Worked together with a team to achieve quotas.
-
+- Worked eight to ten hours a day in hot and muddy conditions.
 
 ## Service and Work History
 
