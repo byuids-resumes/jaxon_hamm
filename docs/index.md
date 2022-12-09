@@ -15,7 +15,7 @@ Computer Scientist
 
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
-
+_Computer Science_
 - 3.9 GPA
 
 ## Work Experience
